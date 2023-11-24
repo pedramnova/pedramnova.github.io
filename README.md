@@ -6,8 +6,8 @@
     <title>Your Name - PhD Student in Software Development</title>
     <style>
         body {
-            font-family: 'Arial', 'sans-serif';
-            margin: 20;
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
         }
 
         header {
@@ -78,4 +78,3 @@
 </body>
 
 </html>
-
