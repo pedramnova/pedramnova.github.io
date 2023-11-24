@@ -73,7 +73,7 @@
     </section>
 
     <footer>
-        <p>Contact: your.email@example.com | GitHub: <a href="https://github.com/yourusername" target="_blank">yourusername</a></p>
+        <p>Contact: your.email@example.com | GitHub: <a href="https://github.com/pedramnova" target="_blank">yourusername</a></p>
     </footer>
 </body>
 
